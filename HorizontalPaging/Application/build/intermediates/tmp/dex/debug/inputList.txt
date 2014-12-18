@@ -1,6 +1,0 @@
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\classes\debug
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-5dc5e438ec76cf0b9c1f41098a982b7645fb3ba6.jar
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-3d90b51722af9338ca4ff6f7a61cec4b5ec68d55.jar
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-57e2bdecf7f689ebe71ca61e564fa53c098b4c8d.jar
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-ae55aa4e83874dea1d777866eb5fc52fc5b77fb1.jar
-C:\Users\klyap_000\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-24fd9e84b350d62205b531d6f6416a4bfaaefd59.jar
